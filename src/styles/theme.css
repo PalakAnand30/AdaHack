@@ -1,0 +1,46 @@
+.eco-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.04);
+}
+
+.eco-sidebar {
+  background: #101c2b;
+}
+
+.eco-primary {
+  background: #7f1d3a;
+  color: white;
+}
+
+.eco-primary:hover {
+  background: #64162f;
+}
+
+.eco-page {
+  min-height: 100vh;
+  background: #f4f5f7;
+}
+
+.eco-kpi-label {
+  color: #6b7280;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.eco-kpi-value {
+  color: #111827;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.eco-muted {
+  color: #6b7280;
+}
+
+.eco-section-title {
+  color: #111827;
+  font-size: 14px;
+  font-weight: 700;
+}
